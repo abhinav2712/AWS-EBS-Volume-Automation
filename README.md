@@ -3,6 +3,9 @@
 ## Video Demonstartion of the project:
 https://github.com/abhinav2712/AWS-EBS-Volume-Automation/assets/68495520/6b0c0ec4-1bbb-42b2-b41e-e17d1c0d4dc6
 
+We can see, first the old volume is deleted and new one is created since the lambda fucntion would get trigerred only on the creation of the new volume. Now on creating a new one, the type is left by default 'GP2', however later on refresh , the type automatically gets converted into 'GP3'
+
+
 Blog Link: https://abhinavkumar.hashnode.dev/aws-ebs-volume-automation
 
 In today's ever-evolving cloud computing landscape, efficiency and compliance are vital for the smooth operation of any organization's infrastructure. As a Cloud Engineer, it's your responsibility to optimize cloud resources and services while adhering to company policies. This blog explores a unique project that demonstrates the power of automation and monitoring within Amazon Web Services (AWS) to maintain operational excellence and regulatory compliance.
