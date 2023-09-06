@@ -3,6 +3,8 @@
 ## Video Demonstartion of the project:
 https://github.com/abhinav2712/AWS-EBS-Volume-Automation/assets/68495520/6b0c0ec4-1bbb-42b2-b41e-e17d1c0d4dc6
 
+Blog Link: https://abhinavkumar.hashnode.dev/aws-ebs-volume-automation
+
 In today's ever-evolving cloud computing landscape, efficiency and compliance are vital for the smooth operation of any organization's infrastructure. As a Cloud Engineer, it's your responsibility to optimize cloud resources and services while adhering to company policies. This blog explores a unique project that demonstrates the power of automation and monitoring within Amazon Web Services (AWS) to maintain operational excellence and regulatory compliance.
 
 ## The Challenge: EBS Volume Type Mismatch
@@ -31,4 +33,6 @@ Develop Python code to extract volume IDs from ARNs and use boto3 to modify volu
 ## Conclusion
 This project showcases the value of automation in maintaining operational excellence and compliance. Whether you're a seasoned Cloud Engineer or new to cloud computing, you can optimize AWS infrastructure while adhering to company standards. By proactively addressing EBS volume type mismatches, you enhance resource utilization and operational efficiency. Automation is a key element in keeping AWS environments well-managed and compliant.
 
+## Detailed BLog on the same:
+https://abhinavkumar.hashnode.dev/aws-ebs-volume-automation
 
